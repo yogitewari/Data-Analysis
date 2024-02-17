@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I am Yogesh Kumar Tewari</h1>
+<h1 align="center">Hello, I am Yogesh Kumar Tewari</h1>
 
 <p align="center">
 
@@ -16,14 +16,12 @@ Data Analysts with proficiency in SQL, MS Excel, and Power BI may discover usef
 ---
 
 **Let's discuss some more concepts as below**:
-
 - Dive into data with me for insightful analysis.
 - Let's unlock the potential of data together.
 - Drop me a line at yogi.tewari@gmail.com and https://www.linkedin.com/in/ytewari for things data-related.
 - I'm currently mastering Python for enhanced data analytics.
 - Let's spark a conversation about the fascinating world of data.
 - Together, we can tackle any data analysis project with expertise and enthusiasm.
-
 ---
 
 **Tools I had worked with**
