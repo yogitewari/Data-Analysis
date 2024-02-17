@@ -1,8 +1,9 @@
-<h1 align="center">Hello 👋, I am <a href="https://www.linkedin.com/in/ytewari/" rel="nofollow" class="">Yogesh Kumar Tewari</a></h1>
+<h1 align="center">Hello 👋, I am Yogesh Kumar Tewari</h1>
+
 <p align="center">
-<img src="https://i.gifer.com/8Mqe.gif" alt="Data Analytics" width="600" height="360" />
-<img src="https://i.gifer.com/RPbO.gif" alt="Data Analytics" width="600" height="360" />
-  
+
+  <img src="https://cdn.pixabay.com/photo/2018/07/15/11/31/online-3539421_1280.png" alt="Data Analytics" width="900" height="460" /> 
+
 </p>
 
 Data Analysts with proficiency in SQL, MS Excel, and Power BI may discover useful information from data. 
@@ -18,7 +19,7 @@ Data Analysts with proficiency in SQL, MS Excel, and Power BI may discover usef
 
 - Dive into data with me for insightful analysis.
 - Let's unlock the potential of data together.
-- Drop me a line at yogi.tewari@gmail.com for things data-related.
+- Drop me a line at yogi.tewari@gmail.com and https://www.linkedin.com/in/ytewari for things data-related.
 - I'm currently mastering Python for enhanced data analytics.
 - Let's spark a conversation about the fascinating world of data.
 - Together, we can tackle any data analysis project with expertise and enthusiasm.
