@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <img src="https://cdn.pixabay.com/photo/2018/07/15/11/31/online-3539421_1280.png" alt="Data Analytics" width="900" height="460" /> 
+  <img src="https://cdn.pixabay.com/photo/2018/07/15/11/31/online-3539421_1280.png" alt="Data Analytics" width="600" height="260" /> 
 
 </p>
 
@@ -39,5 +39,5 @@ Data Analysts with proficiency in SQL, MS Excel, and Power BI may discover usef
   <img src="https://www.logo.wine/a/logo/Microsoft_Access/Microsoft_Access-Logo.wine.svg" alt="MSAccess" width="60" height="70"/> &nbsp; &nbsp;
   <img src="https://www.logo.wine/a/logo/Power_BI/Power_BI-Logo.wine.svg" alt="PowerBI" width="60" height="70"/> &nbsp; &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Oracle_Certified_Professianal_Logo.svg" alt="Oracle9i" width="60" height="70"/> &nbsp; &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Oracle_Certified_Associate_Logo.svg" alt="Oracle9i" width="60" height="70"/> </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Oracle_Certified_Associate_Logo.svg" alt="Oracle9i" width="60" height="70"/></p>
 
